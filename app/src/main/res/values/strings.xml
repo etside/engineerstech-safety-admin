@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eT Safety Admin</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="add_user">Add User</string>
+    <string name="user_list">User List</string>
+    <string name="total_active_users">Total Active Users</string>
+    <string name="expiring_soon">Expiring Soon (7 days)</string>
+    <string name="gold_users">Gold Users</string>
+    <string name="platinum_users">Platinum Users</string>
+    <string name="free_users">Free Users</string>
+    <string name="add_new_user">Add New User</string>
+    <string name="email_or_phone">Email or Phone Number</string>
+    <string name="select_tier">Select Tier</string>
+    <string name="number_of_months">Number of Months</string>
+    <string name="generate_passphrase">Generate Passphrase</string>
+    <string name="copy_passphrase">Copy</string>
+    <string name="save_user">Save User</string>
+    <string name="search_users">Search users...</string>
+    <string name="remove_duplicates">Remove Duplicates</string>
+    <string name="active">Active</string>
+    <string name="expired">Expired</string>
+    <string name="expiring_soon_status">Expiring Soon</string>
+    <string name="edit_user">Edit User</string>
+    <string name="extend_expiry">Extend Expiry</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="confirm_delete_message">Are you sure you want to delete this user?</string>
+    <string name="user_saved">User saved successfully</string>
+    <string name="user_deleted">User deleted</string>
+    <string name="duplicates_removed">Duplicates removed</string>
+    <string name="passphrase_copied">Passphrase copied to clipboard</string>
+    <string name="fill_required_fields">Please fill in all required fields</string>
+    <string name="no_users_found">No users found</string>
+    <string name="duplicates_found">Duplicates found and merged</string>
+</resources>
